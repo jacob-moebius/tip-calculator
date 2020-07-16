@@ -5,5 +5,5 @@ A simple Android app to calculate correct tip amounts based on a restaurant bill
 To see this project in action:
 * Download/clone the repo.
 * Open the project in Android Studio.
-* Use an emulator that is compatible with Android 5.0.
+* Use an emulator that is compatible with Android API 21.
 * Run the project using that emulator.
